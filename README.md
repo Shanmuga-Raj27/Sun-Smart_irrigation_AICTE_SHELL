@@ -1,2 +1,2 @@
 # Sun-Smart_irrigation_AICTE_SHELL
-week 1 submission 
+week 2 submission 
